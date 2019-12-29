@@ -1,0 +1,23 @@
+function:Function is a block.
+function 
+	system define
+	user define 
+		1=> no arguments no return
+		2=> no arguments with return
+		3=> with arguments no return
+		4=> with arguments with return
+		
+		
+How to define function in python 
+
+def FunctionName(Arguemnts1,Arguemnts1..):
+			steps1/logic
+			steps2
+			steps3
+			return anyValue(alphanumeric/variable)
+			
+
+Use/call a function in a python
+
+FunctionName(arguments)
+			
